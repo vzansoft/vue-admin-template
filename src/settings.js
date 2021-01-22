@@ -1,16 +1,16 @@
 module.exports = {
 
-  title: 'Vue Admin Template',
+  title: 'TIANSOFT',
 
   /**
    * @type {boolean} true | false
-   * @description Whether fix the header
+   * @description 顶部导航栏是否固定
    */
-  fixedHeader: false,
+  fixedHeader: true,
 
   /**
    * @type {boolean} true | false
-   * @description Whether show the logo in sidebar
+   * @description 是否显示Logo
    */
-  sidebarLogo: false
+  sidebarLogo: true
 }

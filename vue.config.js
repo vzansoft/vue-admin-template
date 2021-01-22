@@ -6,7 +6,8 @@ function resolve(dir) {
   return path.join(__dirname, dir)
 }
 
-const name = defaultSettings.title || 'vue Admin Template' // page title
+// 页面标题
+const name = defaultSettings.title || 'TIANSOFT'
 
 // If your port is set to 80,
 // use administrator privileges to execute the command line.
