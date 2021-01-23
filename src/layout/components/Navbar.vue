@@ -76,7 +76,7 @@ export default {
     -webkit-tap-highlight-color:transparent;
 
     &:hover {
-      background: rgba(0, 0, 0, .025)
+      background: #f2f2f2
     }
   }
 
